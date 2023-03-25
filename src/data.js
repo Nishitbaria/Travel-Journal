@@ -32,17 +32,7 @@ const Data = [
       "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality.",
     imageUrl: "https://source.unsplash.com/3PeSjpLVtLg",
   },
-   {
-    key: 4,
-    title: "India Gate",
-    location: "India",
-    googleMapsUrl: "https://goo.gl/maps/5J6KAPeSgM8CHQwB7",
-    startDate: "02 Jan, 2021",
-    endDate: "18 Nov, 2021",
-    description:
-      "The India Gate is a war memorial located near the Kartavya path on the eastern edge of the  of New Delhi, formerly called duty path.",
-    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf2wVDDfPmZP1eODqeU29-bcAQIYVUZpCnI8oLraJJLQ&s",
-  },
+   
 ];
 
 export default Data;
