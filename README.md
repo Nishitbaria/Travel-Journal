@@ -1,7 +1,7 @@
 # Travel-Journal
 ## Travel Journal is an open-source project that allows you to create a list of your travel journeys.
 
-## Table of contents
+## Table of contents ✨
 
 - [Overview](#overview)
   - [Requirements](#requirements)
@@ -9,12 +9,12 @@
   - [Links](#links)
   - [Contribution](#Contribution)
 
-### Requirements
+### Requirements 
 
 - Data array in a separate .js file you can add your add in data.js
 - you have Knowlage about basic of js
 
-### Screenshot
+### Screenshot 
 
 ![screenshot](/src/screenshots/screenshot.png)
 
@@ -25,7 +25,7 @@
 
 
 
-### Contribution
+### Contribution   
 
 - Step-1 Fork This Repo / Clone this Repo 
 
